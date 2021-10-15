@@ -1,5 +1,5 @@
 ---
-title: Example Author
+title: Luis Reyes
 draft: false
 role: Example Role
 avatar: images/icon.png
